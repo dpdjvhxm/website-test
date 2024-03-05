@@ -1,0 +1,546 @@
+.community-a,
+.community-a * {
+  box-sizing: border-box;
+}
+.community-a {
+  background: #ffffff;
+  height: 1903px;
+  position: relative;
+  overflow: hidden;
+}
+.group-2697 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-478 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 87.39%;
+  height: 12.61%;
+  overflow: visible;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 355px;
+  top: 1755px;
+  width: 1210px;
+  height: 57px;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span {
+  color: #ffffff;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span2 {
+  color: #ffffff;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span3 {
+  color: #ffffff;
+  font-family: "Roboto-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  text-decoration: underline;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span4 {
+  color: #ffffff;
+  font-family: "Roboto-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+.group-2705 {
+  height: auto;
+  position: absolute;
+  left: -1px;
+  top: 461px;
+  overflow: visible;
+}
+.introduction-of-age {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  right: 33.02%;
+  left: 33.44%;
+  width: 33.54%;
+  bottom: 84.76%;
+  top: 13.14%;
+  height: 2.1%;
+}
+.age-was-under-development-since-2019-by-a-team-of-engineers-at-bitnine-global-inc-the-project-originally-born-out-of-agens-graph-a-multi-model-graph-database-fork-of-postgre-sql-was-donated-to-the-apache-software-foundation-and-entered-incubation-in-apri {
+  position: absolute;
+  inset: 0;
+}
+.we-are-so-glad-you-considering-to-be-a-part-of-the-age-community-below-are-some-pathways-you-can-follow-to-help-you-get-started-these-are-the-recommended-paths-to-progression-that-will-help-you-reach-your-objectives {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  width: 62.5%;
+  bottom: 79.72%;
+  top: 17.97%;
+  height: 2.31%;
+}
+.ask-your-age-related-questions-open-various-types-of-discussions-and-share-your-ideas-in-git-hub-stack-overflow-using-the-apache-age-tag {
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  position: absolute;
+  right: 63.54%;
+  left: 18.75%;
+  width: 17.71%;
+  bottom: 52.71%;
+  top: 41.99%;
+  height: 5.31%;
+}
+.ask-your-age-related-questions-open-various-types-of-discussions-and-share-your-ideas-in-git-hub-stack-overflow-using-the-apache-age-tag-span {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.ask-your-age-related-questions-open-various-types-of-discussions-and-share-your-ideas-in-git-hub-stack-overflow-using-the-apache-age-tag-span2 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.ask-your-age-related-questions-open-various-types-of-discussions-and-share-your-ideas-in-git-hub-stack-overflow-using-the-apache-age-tag-span3 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.ask-your-age-related-questions-open-various-types-of-discussions-and-share-your-ideas-in-git-hub-stack-overflow-using-the-apache-age-tag-span4 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.ask-your-age-related-questions-open-various-types-of-discussions-and-share-your-ideas-in-git-hub-stack-overflow-using-the-apache-age-tag-span5 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.ask-your-age-related-questions-open-various-types-of-discussions-and-share-your-ideas-in-git-hub-stack-overflow-using-the-apache-age-tag-span6 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.a-great-way-to-contribute-is-being-a-member-of-the-age-project-or-age-viewer-project-this-is-a-good-opportunity-to-meet-other-developers-and-share-helpful-insights-and-opinions-by-working-together {
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  position: absolute;
+  right: 40.62%;
+  left: 41.67%;
+  width: 17.71%;
+  bottom: 51.6%;
+  top: 41.99%;
+  height: 6.41%;
+}
+.a-great-way-to-contribute-is-being-a-member-of-the-age-project-or-age-viewer-project-this-is-a-good-opportunity-to-meet-other-developers-and-share-helpful-insights-and-opinions-by-working-together-span {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.a-great-way-to-contribute-is-being-a-member-of-the-age-project-or-age-viewer-project-this-is-a-good-opportunity-to-meet-other-developers-and-share-helpful-insights-and-opinions-by-working-together-span2 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.a-great-way-to-contribute-is-being-a-member-of-the-age-project-or-age-viewer-project-this-is-a-good-opportunity-to-meet-other-developers-and-share-helpful-insights-and-opinions-by-working-together-span3 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.a-great-way-to-contribute-is-being-a-member-of-the-age-project-or-age-viewer-project-this-is-a-good-opportunity-to-meet-other-developers-and-share-helpful-insights-and-opinions-by-working-together-span4 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.a-great-way-to-contribute-is-being-a-member-of-the-age-project-or-age-viewer-project-this-is-a-good-opportunity-to-meet-other-developers-and-share-helpful-insights-and-opinions-by-working-together-span5 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.a-great-way-to-contribute-is-being-a-member-of-the-age-project-or-age-viewer-project-this-is-a-good-opportunity-to-meet-other-developers-and-share-helpful-insights-and-opinions-by-working-together-span6 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.a-great-way-to-contribute-is-being-a-member-of-the-age-project-or-age-viewer-project-this-is-a-good-opportunity-to-meet-other-developers-and-share-helpful-insights-and-opinions-by-working-together-span7 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.follow-apache-age-on-twitter-for-the-most-recent-news-on-the-project-and-community {
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.75%;
+  left: 63.54%;
+  width: 17.71%;
+  bottom: 55.39%;
+  top: 41.99%;
+  height: 2.63%;
+}
+.follow-apache-age-on-twitter-for-the-most-recent-news-on-the-project-and-community-span {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.follow-apache-age-on-twitter-for-the-most-recent-news-on-the-project-and-community-span2 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.follow-apache-age-on-twitter-for-the-most-recent-news-on-the-project-and-community-span3 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.follow-apache-age-on-twitter-for-the-most-recent-news-on-the-project-and-community-span4 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.follow-apache-age-on-twitter-for-the-most-recent-news-on-the-project-and-community-span5 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.generate-a-discussion {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 360px;
+  top: 731px;
+  width: 340px;
+  height: 40px;
+}
+.participate-in-age-project {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 800px;
+  top: 731px;
+  width: 340px;
+  height: 40px;
+}
+.twitter-account {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 1220px;
+  top: 731px;
+  width: 340px;
+  height: 40px;
+}
+.layer-1 {
+  width: 108px;
+  height: 96.2px;
+  position: absolute;
+  left: 476px;
+  top: 580px;
+  overflow: visible;
+}
+.image-13 {
+  width: 94px;
+  height: 92.99px;
+  position: absolute;
+  left: 923px;
+  top: 580px;
+  object-fit: cover;
+}
+.vector {
+  height: auto;
+  position: absolute;
+  right: 25.16%;
+  left: 69.95%;
+  width: 4.9%;
+  bottom: 64.8%;
+  top: 31.16%;
+  height: 4.04%;
+  overflow: visible;
+}
+.rectangle-9916 {
+  background: #f4f3f3;
+  border-radius: 8px;
+  width: 1200px;
+  height: 439px;
+  position: absolute;
+  left: 360px;
+  top: 1017px;
+}
+.group-2730 {
+  position: absolute;
+  inset: 0;
+}
+.mailing-lists {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 732px;
+  top: 1158px;
+  width: 189px;
+  height: 40px;
+}
+.join-the-official-apache-age-user-and-developer-mailing-lists-you-can-get-user-support-ask-general-questions-and-stay-up-to-date-with-project-news-users-subscribe-age-apache-org-is-for-usage-questions-help-and-announcements-dev-subscribe-age-apache-org-is-for-people-who-want-to-contribute-code-to-age-commits-subscribe-age-apache-org-is-for-people-to-follow-commits-to-the-project {
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  position: absolute;
+  right: 29.58%;
+  left: 38.12%;
+  width: 32.29%;
+  bottom: 29.11%;
+  top: 63.64%;
+  height: 7.25%;
+}
+.join-the-official-apache-age-user-and-developer-mailing-lists-you-can-get-user-support-ask-general-questions-and-stay-up-to-date-with-project-news-users-subscribe-age-apache-org-is-for-usage-questions-help-and-announcements-dev-subscribe-age-apache-org-is-for-people-who-want-to-contribute-code-to-age-commits-subscribe-age-apache-org-is-for-people-to-follow-commits-to-the-project-span {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.join-the-official-apache-age-user-and-developer-mailing-lists-you-can-get-user-support-ask-general-questions-and-stay-up-to-date-with-project-news-users-subscribe-age-apache-org-is-for-usage-questions-help-and-announcements-dev-subscribe-age-apache-org-is-for-people-who-want-to-contribute-code-to-age-commits-subscribe-age-apache-org-is-for-people-to-follow-commits-to-the-project-span2 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.join-the-official-apache-age-user-and-developer-mailing-lists-you-can-get-user-support-ask-general-questions-and-stay-up-to-date-with-project-news-users-subscribe-age-apache-org-is-for-usage-questions-help-and-announcements-dev-subscribe-age-apache-org-is-for-people-who-want-to-contribute-code-to-age-commits-subscribe-age-apache-org-is-for-people-to-follow-commits-to-the-project-span3 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.join-the-official-apache-age-user-and-developer-mailing-lists-you-can-get-user-support-ask-general-questions-and-stay-up-to-date-with-project-news-users-subscribe-age-apache-org-is-for-usage-questions-help-and-announcements-dev-subscribe-age-apache-org-is-for-people-who-want-to-contribute-code-to-age-commits-subscribe-age-apache-org-is-for-people-to-follow-commits-to-the-project-span4 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.join-the-official-apache-age-user-and-developer-mailing-lists-you-can-get-user-support-ask-general-questions-and-stay-up-to-date-with-project-news-users-subscribe-age-apache-org-is-for-usage-questions-help-and-announcements-dev-subscribe-age-apache-org-is-for-people-who-want-to-contribute-code-to-age-commits-subscribe-age-apache-org-is-for-people-to-follow-commits-to-the-project-span5 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.join-the-official-apache-age-user-and-developer-mailing-lists-you-can-get-user-support-ask-general-questions-and-stay-up-to-date-with-project-news-users-subscribe-age-apache-org-is-for-usage-questions-help-and-announcements-dev-subscribe-age-apache-org-is-for-people-who-want-to-contribute-code-to-age-commits-subscribe-age-apache-org-is-for-people-to-follow-commits-to-the-project-span6 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.join-the-official-apache-age-user-and-developer-mailing-lists-you-can-get-user-support-ask-general-questions-and-stay-up-to-date-with-project-news-users-subscribe-age-apache-org-is-for-usage-questions-help-and-announcements-dev-subscribe-age-apache-org-is-for-people-who-want-to-contribute-code-to-age-commits-subscribe-age-apache-org-is-for-people-to-follow-commits-to-the-project-span7 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.join-the-official-apache-age-user-and-developer-mailing-lists-you-can-get-user-support-ask-general-questions-and-stay-up-to-date-with-project-news-users-subscribe-age-apache-org-is-for-usage-questions-help-and-announcements-dev-subscribe-age-apache-org-is-for-people-who-want-to-contribute-code-to-age-commits-subscribe-age-apache-org-is-for-people-to-follow-commits-to-the-project-span8 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.group-2714 {
+  width: 102px;
+  height: 94.94px;
+  position: absolute;
+  right: 65.1%;
+  left: 29.58%;
+  width: 5.31%;
+  bottom: 35.95%;
+  top: 59.06%;
+  height: 4.99%;
+  overflow: visible;
+}
+.div {
+  position: sticky;
+  left: 0px;
+  top: 0px;
+}
+.group {
+  width: 1920px;
+  height: 105px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-2670 {
+  width: 153px;
+  height: 48px;
+  position: static;
+}
+.union-5 {
+  width: 153px;
+  height: 48px;
+  position: absolute;
+  left: 1707px;
+  top: 28px;
+  overflow: visible;
+}
+.download-age {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 1730px;
+  top: 42px;
+}
+.group-2681 {
+  width: 663px;
+  height: 19px;
+  position: static;
+}
+.apache-age {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 960px;
+  top: 42px;
+}
+.documentation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1109px;
+  top: 42px;
+}
+.contribution {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1279px;
+  top: 42px;
+}
+.community {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1427px;
+  top: 42px;
+}
+.apache {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1569px;
+  top: 42px;
+}
+.group-5751 {
+  width: 80px;
+  height: 38.56px;
+  position: absolute;
+  left: 60px;
+  top: 33px;
+  overflow: visible;
+}

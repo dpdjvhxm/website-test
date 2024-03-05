@@ -1,0 +1,287 @@
+<div class="code-convention">
+  <div class="group-2697">
+    <svg
+      class="rectangle-478"
+      width="1920"
+      height="240"
+      viewBox="0 0 1920 240"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path d="M1920 0H0V240H1920V0Z" fill="#363C52" />
+    </svg>
+    <div
+      class="copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation"
+    >
+      <span>
+        <span
+          class="copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span"
+        >
+          Copyright © 2024 The Apache Software Foundation.
+          <br />
+        </span>
+        <span
+          class="copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span2"
+        >
+          <br />
+        </span>
+        <span
+          class="copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span3"
+        >
+          The Apache Software Foundation
+        </span>
+        <span
+          class="copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span4"
+        >
+          Apache AGE, AGE, Apache, the Apache feather, and the Apache AGE
+          project logo are either registered trademarks or trademarks of the
+          Apache Software Foundation.
+        </span>
+      </span>
+    </div>
+  </div>
+  <div class="introduction-of-age">Code Convention</div>
+  <div class="introduction-of-age2">Code Review Process (To be updated)</div>
+  <div class="introduction-of-age3">How to Merge a Pull Request</div>
+  <div class="introduction-of-age4">
+    <span>
+      <span class="introduction-of-age-4-span">
+        Table of Contents
+        <br />
+        <br />
+      </span>
+      <span class="introduction-of-age-4-span2">
+        Code Review Process
+        <br />
+      </span>
+      <span class="introduction-of-age-4-span3">
+        How to Merge a Pull Request
+        <br />
+      </span>
+      <span class="introduction-of-age-4-span4">
+        Coding Style Guide
+        <br />
+      </span>
+      <span class="introduction-of-age-4-span5">Creating Documentation</span>
+    </span>
+  </div>
+  <div class="introduction-of-age5">
+    <span>
+      <span class="introduction-of-age-5-span">
+        Make a commit (or multiple commits) on your local branch.
+        <br />
+        Create .patch file(s) of the commit(s).
+        <br />
+      </span>
+      <span class="introduction-of-age-5-span2">
+        Use git format-patch command.
+        <br />
+      </span>
+      <span class="introduction-of-age-5-span3">
+        Send the .patch file(s) to the reviewer.
+        <br />
+      </span>
+      <span class="introduction-of-age-5-span4">
+        The title of the email must be &quot;[Review] [JIRA Ticket Name Here]
+        summary-of-the-issue&quot; (e.g. [Review] [JIRA Ticket Name] Support
+        changing graph name)
+        <br />
+      </span>
+      <span class="introduction-of-age-5-span5">
+        If the commit is not for any issues on JIRA, omit &quot; [JIRA Ticket
+        Name Here]&quot;. OR make a IRA ticket
+        <br />
+      </span>
+      <span class="introduction-of-age-5-span6">
+        The email body will look like this:
+      </span>
+    </span>
+  </div>
+  <div class="introduction-of-age6">
+    <span>
+      <span class="introduction-of-age-6-span">
+        Single Commit for a Single Task
+        <br />
+        <br />
+      </span>
+      <span class="introduction-of-age-6-span2">
+        In this case, the commit will be merged into the master branch with the
+        following process.
+        <br />
+      </span>
+      <span class="introduction-of-age-6-span3">
+        Change the current working branch to the local master branch by running
+        the following command.
+      </span>
+    </span>
+  </div>
+  <div class="introduction-of-age7">
+    2. Make the local master branch up-to-date by running the following command
+    (or any other commands that result the same.)
+  </div>
+  <div class="introduction-of-age8">
+    <span>
+      <span class="introduction-of-age-8-span">
+        The first line is the hash code of the base commit, NOT the commit
+        you&#039;ve created.
+        <br />
+        This will help reviewers to quickly apply the .patch files.
+        <br />
+        Put proper information to help the reviewer.
+        <br />
+        The first line is the hash code of the base commit, NOT the commit
+        you&#039;ve created.
+        <br />
+        This will help reviewers to quickly apply the .patch files.
+        <br />
+        Put proper information to help the reviewer.
+        <br />
+      </span>
+      <span class="introduction-of-age-8-span2">
+        Attach .patch files.
+        <br />
+      </span>
+      <span class="introduction-of-age-8-span3">Do NOT</span>
+      <span class="introduction-of-age-8-span4">
+        rename files. They are named with numbers in order.
+        <br />
+      </span>
+      <span class="introduction-of-age-8-span5">Do NOT</span>
+      <span class="introduction-of-age-8-span6">
+        compress them unless the total file size is over 5MB.
+        <br />
+      </span>
+      <span class="introduction-of-age-8-span7">
+        Reply to the last email in the same thread to send a review of it.
+        <br />
+      </span>
+      <span class="introduction-of-age-8-span8">
+        You can attach some .diff files.
+        <br />
+      </span>
+      <span class="introduction-of-age-8-span9">
+        Reply to the last email in the same thread to send updated patch(es) and
+        opinions.
+        <br />
+      </span>
+      <span class="introduction-of-age-8-span10">
+        If you rebase commits, state the hash code of the new base commit.
+        <br />
+      </span>
+      <span class="introduction-of-age-8-span11">Repeat 4 and 5.</span>
+    </span>
+  </div>
+  <div class="group-2731">
+    <div class="rectangle-9926"></div>
+    <div class="introduction-of-age9">
+      Commit bef50e5d86d45707806f5733695a229f3e295b1a
+      <br />
+      [one blank line]
+      <br />
+      Description
+    </div>
+  </div>
+  <div class="group-2732">
+    <div class="rectangle-99262"></div>
+    <div class="introduction-of-age10">$ git checkout master</div>
+  </div>
+  <div class="div">
+    <svg
+      class="group"
+      width="1920"
+      height="105"
+      viewBox="0 0 1920 105"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g filter="url(#filter0_d_141_116)">
+        <path d="M1920 0H0V105H1920V0Z" fill="url(#paint0_linear_141_116)" />
+      </g>
+      <defs>
+        <filter
+          id="filter0_d_141_116"
+          x="-10"
+          y="0"
+          width="1940"
+          height="125"
+          filterUnits="userSpaceOnUse"
+          color-interpolation-filters="sRGB"
+        >
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feColorMatrix
+            in="SourceAlpha"
+            type="matrix"
+            values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+            result="hardAlpha"
+          />
+          <feOffset dy="10" />
+          <feGaussianBlur stdDeviation="5" />
+          <feColorMatrix
+            type="matrix"
+            values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.16 0"
+          />
+          <feBlend
+            mode="normal"
+            in2="BackgroundImageFix"
+            result="effect1_dropShadow_141_116"
+          />
+          <feBlend
+            mode="normal"
+            in="SourceGraphic"
+            in2="effect1_dropShadow_141_116"
+            result="shape"
+          />
+        </filter>
+        <linearGradient
+          id="paint0_linear_141_116"
+          x1="1209.6"
+          y1="105"
+          x2="-391.68"
+          y2="105"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop />
+          <stop offset="0.41" stop-color="#241E4A" />
+          <stop offset="0.69" stop-color="#8B1D64" />
+          <stop offset="1" stop-color="#DE0056" />
+        </linearGradient>
+      </defs>
+    </svg>
+    <div class="group-2670">
+      <svg
+        class="union-5"
+        width="153"
+        height="48"
+        viewBox="0 0 153 48"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M6 0H147C148.591 0 150.117 0.632141 151.243 1.75736C152.368 2.88258 153 4.4087 153 6V42C153 43.5913 152.368 45.1174 151.243 46.2426C150.117 47.3679 148.591 48 147 48H6C4.4087 48 2.88258 47.3679 1.75736 46.2426C0.632141 45.1174 0 43.5913 0 42L0 6C0 4.4087 0.632141 2.88258 1.75736 1.75736C2.88258 0.632141 4.4087 0 6 0Z"
+          fill="#D10D52"
+        />
+      </svg>
+      <div class="download-age">Download AGE</div>
+    </div>
+    <div class="group-2681">
+      <div class="apache-age">Apache AGE</div>
+      <div class="documentation">Documentation</div>
+      <div class="contribution">Contribution</div>
+      <div class="community">Community</div>
+      <div class="apache">Apache</div>
+    </div>
+    <svg
+      class="group-5751"
+      width="80"
+      height="39"
+      viewBox="0 0 80 39"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M61.4561 17.7759H80V21.6795H61.4561V17.7759ZM80 34.6555H60.0793C58.7408 36.2234 57.1378 37.5445 55.3431 38.559H80V34.6555ZM77.5677 0.911228H55.3441C57.1417 1.92155 58.7453 3.24328 60.0803 4.81478H80V0.911228H77.5677ZM53.5834 17.568L33.1514 24.8001L34.6237 28.1605L53.5356 21.4566C53.0297 25.1695 51.1975 28.574 48.3772 31.0414C45.557 33.5088 41.9392 34.8723 38.192 34.8803C37.9681 34.8803 37.7602 34.8803 37.5364 34.8644L39.136 38.5282C44.0565 38.2796 48.6942 36.1533 52.0936 32.5873C55.493 29.0213 57.3952 24.2873 57.4083 19.3606C57.4083 19.0084 57.3924 18.6404 57.3765 18.2882L57.3287 17.5362L53.5834 17.568ZM24.7703 6.26718L26.3699 9.9479C29.046 6.85607 32.8381 4.95053 36.9161 4.64849C40.994 4.34645 45.0255 5.67251 48.1279 8.33634C48.9555 9.05226 49.7063 9.8524 50.3682 10.7238L51.1043 11.6997L53.1685 8.25973L52.8164 7.828C49.5644 3.92438 44.8982 1.46831 39.8393 0.997537C34.7805 0.52676 29.7412 2.07962 25.8247 5.31615C25.4567 5.61989 25.1045 5.9399 24.7683 6.27613M6.39948 33.5682L16.4638 9.90412L24.2729 28.1923L5.86926 34.7997L6.39948 33.5682ZM15.7276 1.71203L0.128328 38.2397L0 38.56H6.09607L25.6795 31.5199L28.6877 38.56H33.04L29.4398 30.176L28.0163 26.8484L17.1999 1.71203L16.4638 0L15.7276 1.71203Z"
+        fill="white"
+      />
+    </svg>
+  </div>
+</div>

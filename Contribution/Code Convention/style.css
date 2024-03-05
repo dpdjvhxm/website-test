@@ -1,0 +1,510 @@
+.code-convention,
+.code-convention * {
+  box-sizing: border-box;
+}
+.code-convention {
+  background: #ffffff;
+  height: 2094px;
+  position: relative;
+  overflow: hidden;
+}
+.group-2697 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-478 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 88.54%;
+  height: 11.46%;
+  overflow: visible;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 355px;
+  top: 1946px;
+  width: 1210px;
+  height: 57px;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span {
+  color: #ffffff;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span2 {
+  color: #ffffff;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span3 {
+  color: #ffffff;
+  font-family: "Roboto-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  text-decoration: underline;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span4 {
+  color: #ffffff;
+  font-family: "Roboto-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+.introduction-of-age {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  width: 62.5%;
+  bottom: 86.06%;
+  top: 11.94%;
+  height: 2.01%;
+}
+.introduction-of-age2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  width: 62.5%;
+  bottom: 72.25%;
+  top: 25.93%;
+  height: 1.81%;
+}
+.introduction-of-age3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  width: 62.5%;
+  bottom: 33.72%;
+  top: 64.47%;
+  height: 1.81%;
+}
+.introduction-of-age4 {
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  width: 62.5%;
+  bottom: 78.75%;
+  top: 15.47%;
+  height: 5.78%;
+}
+.introduction-of-age-4-span {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.introduction-of-age-4-span2 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.introduction-of-age-4-span3 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.introduction-of-age-4-span4 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.introduction-of-age-4-span5 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.introduction-of-age5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  width: 62.5%;
+  bottom: 62.85%;
+  top: 29.47%;
+  height: 7.69%;
+}
+.introduction-of-age-5-span {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-5-span2 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-5-span3 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-5-span4 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-5-span5 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-5-span6 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age6 {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  width: 62.5%;
+  bottom: 27.6%;
+  top: 68%;
+  height: 4.39%;
+}
+.introduction-of-age-6-span {
+  color: #000000;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 700;
+}
+.introduction-of-age-6-span2 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-6-span3 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age7 {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.75%;
+  left: 19.11%;
+  width: 62.14%;
+  bottom: 21.35%;
+  top: 77.55%;
+  height: 1.1%;
+}
+.introduction-of-age8 {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  width: 62.5%;
+  bottom: 40.21%;
+  top: 44.41%;
+  height: 15.38%;
+}
+.introduction-of-age-8-span {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-8-span2 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-8-span3 {
+  color: #000000;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 700;
+}
+.introduction-of-age-8-span4 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-8-span5 {
+  color: #000000;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 700;
+}
+.introduction-of-age-8-span6 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-8-span7 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-8-span8 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-8-span9 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-8-span10 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.introduction-of-age-8-span11 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.group-2731 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-9926 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #d10d52;
+  border-width: 1px;
+  width: 1200px;
+  height: 104px;
+  position: absolute;
+  left: 360px;
+  top: 792px;
+}
+.introduction-of-age9 {
+  color: #000000;
+  text-align: left;
+  font-family: "Consolas-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  position: absolute;
+  right: 20.05%;
+  left: 20.05%;
+  width: 59.9%;
+  bottom: 58.21%;
+  top: 38.83%;
+  height: 2.96%;
+}
+.group-2732 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-99262 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #d10d52;
+  border-width: 1px;
+  width: 1200px;
+  height: 60px;
+  position: absolute;
+  left: 360px;
+  top: 1530px;
+}
+.introduction-of-age10 {
+  color: #000000;
+  text-align: left;
+  font-family: "Consolas-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  position: absolute;
+  right: 20.05%;
+  left: 20.05%;
+  width: 59.9%;
+  bottom: 24.93%;
+  top: 73.97%;
+  height: 1.1%;
+}
+.div {
+  position: sticky;
+  left: 0px;
+  top: 0px;
+}
+.group {
+  width: 1920px;
+  height: 105px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-2670 {
+  width: 153px;
+  height: 48px;
+  position: static;
+}
+.union-5 {
+  width: 153px;
+  height: 48px;
+  position: absolute;
+  left: 1707px;
+  top: 28px;
+  overflow: visible;
+}
+.download-age {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 1730px;
+  top: 42px;
+}
+.group-2681 {
+  width: 663px;
+  height: 19px;
+  position: static;
+}
+.apache-age {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 960px;
+  top: 42px;
+}
+.documentation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1109px;
+  top: 42px;
+}
+.contribution {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1279px;
+  top: 42px;
+}
+.community {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1427px;
+  top: 42px;
+}
+.apache {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1569px;
+  top: 42px;
+}
+.group-5751 {
+  width: 80px;
+  height: 38.56px;
+  position: absolute;
+  left: 60px;
+  top: 33px;
+  overflow: visible;
+}
