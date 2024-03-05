@@ -1,0 +1,555 @@
+.overview-2,
+.overview-2 * {
+  box-sizing: border-box;
+}
+.overview-2 {
+  background: #ffffff;
+  height: 1368px;
+  position: relative;
+}
+.div {
+  width: 1920px;
+  height: 240px;
+  position: absolute;
+  left: 0px;
+  top: 1128px;
+}
+.rectangle-478 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.49%;
+  left: 18.49%;
+  width: 63.02%;
+  bottom: 37.92%;
+  top: 38.33%;
+  height: 23.75%;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span {
+  color: #ffffff;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span2 {
+  color: #ffffff;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span3 {
+  color: #ffffff;
+  font-family: "Roboto-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  text-decoration: underline;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span4 {
+  color: #ffffff;
+  font-family: "Roboto-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+.age-was-under-development-since-2019-by-a-team-of-engineers-at-bitnine-global-inc-the-project-originally-born-out-of-agens-graph-a-multi-model-graph-database-fork-of-postgre-sql-was-donated-to-the-apache-software-foundation-and-entered-incubation-in-apri {
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  width: 62.5%;
+  bottom: 71.27%;
+  top: 25%;
+  height: 3.73%;
+}
+.age-was-under-development-since-2019-by-a-team-of-engineers-at-bitnine-global-inc-the-project-originally-born-out-of-agens-graph-a-multi-model-graph-database-fork-of-postgre-sql-was-donated-to-the-apache-software-foundation-and-entered-incubation-in-april-2020 {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.component-1 {
+  width: 318px;
+  height: 80px;
+  position: absolute;
+  left: 800px;
+  top: 210px;
+}
+.a-graph-extension {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  right: 11.01%;
+  left: 11.01%;
+  width: 77.99%;
+  bottom: 0%;
+  top: 58.75%;
+  height: 41.25%;
+}
+.introduction-of-age {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 47.5%;
+  top: 0%;
+  height: 52.5%;
+}
+.apache-age {
+  width: 219px;
+  height: 40px;
+  position: absolute;
+  left: 710px;
+  top: 582px;
+}
+.apache-age2 {
+  color: #d4d4d4;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.apache-age-2-span {
+  color: #d4d4d4;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-2-span2 {
+  color: #d4d4d4;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-2-span3 {
+  color: #d4d4d4;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+.apache-age-viewer {
+  width: 344px;
+  height: 40px;
+  position: absolute;
+  left: 974px;
+  top: 582px;
+}
+.apache-age-viewer2 {
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.apache-age-viewer-2-span {
+  color: #000000;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-viewer-2-span2 {
+  color: #d4d4d4;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-viewer-2-span3 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-viewer-2-span4 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-viewer-2-span5 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future {
+  width: 755px;
+  height: 190px;
+  position: absolute;
+  left: 360px;
+  top: 725px;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future2 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future-2-span {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future-2-span2 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future-2-span3 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future-2-span4 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future-2-span5 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future-2-span6 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future-2-span7 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future-2-span8 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future-2-span9 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future-2-span10 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future-2-span11 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-viewer-is-a-web-user-interface-for-apache-age-that-provides-data-visualization-and-exploration-users-can-enter-complex-graph-queries-and-explore-the-results-expressed-in-graph-and-table-data-apache-age-viewer-handles-large-graph-data-users-will-be-able-to-discover-meaningful-insights-with-the-help-of-various-graph-algorithms-apache-age-viewer-will-serve-as-a-central-graph-data-management-development-platform-for-apache-age-a-graph-extension-which-will-support-all-relational-databases-in-the-future-2-span12 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.component-5 {
+  width: 1922px;
+  height: 23px;
+  position: absolute;
+  left: -1px;
+  top: 461px;
+}
+.rectangle-11107 {
+  background: #ffffff;
+  position: absolute;
+  right: 0%;
+  left: 0.05%;
+  width: 99.95%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.component-2 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.component-3 {
+  width: 341px;
+  height: 65px;
+  position: absolute;
+  left: 1219px;
+  top: 725px;
+}
+.vector {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.view-code {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  position: absolute;
+  right: 37.24%;
+  left: 37.54%;
+  width: 25.22%;
+  bottom: 33.85%;
+  top: 33.85%;
+  height: 32.31%;
+}
+.rectangle-9903 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #d10d52;
+  border-width: 2px;
+  position: absolute;
+  right: 0%;
+  left: 0.29%;
+  width: 99.71%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.component-4 {
+  width: 341px;
+  height: 65px;
+  position: absolute;
+  left: 1219px;
+  top: 812px;
+}
+.vector2 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.download {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  position: absolute;
+  right: 38.12%;
+  left: 38.42%;
+  width: 23.46%;
+  bottom: 33.85%;
+  top: 33.85%;
+  height: 32.31%;
+}
+.rectangle-9905 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #d10d52;
+  border-width: 2px;
+  position: absolute;
+  right: 0%;
+  left: 0.29%;
+  width: 99.71%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.div2 {
+  width: 1920px;
+  height: 105px;
+  position: sticky;
+  left: 0px;
+  top: 0px;
+}
+.group {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.group-2670 {
+  position: absolute;
+  inset: 0;
+}
+.union-5 {
+  height: auto;
+  position: absolute;
+  right: 3.12%;
+  left: 88.91%;
+  width: 7.97%;
+  bottom: 27.62%;
+  top: 26.67%;
+  height: 45.71%;
+  overflow: visible;
+}
+.download-age {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  right: 4.38%;
+  left: 90.1%;
+  width: 5.52%;
+  bottom: 41.9%;
+  top: 40%;
+  height: 18.1%;
+}
+.group-2681 {
+  position: absolute;
+  inset: 0;
+}
+.apache-age3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 45.36%;
+  left: 50%;
+  width: 4.64%;
+  bottom: 41.9%;
+  top: 40%;
+  height: 18.1%;
+}
+.documentation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 36.51%;
+  left: 57.76%;
+  width: 5.73%;
+  bottom: 41.9%;
+  top: 40%;
+  height: 18.1%;
+}
+.contribution {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 28.8%;
+  left: 66.61%;
+  width: 4.58%;
+  bottom: 41.9%;
+  top: 40%;
+  height: 18.1%;
+}
+.community {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 21.41%;
+  left: 74.32%;
+  width: 4.27%;
+  bottom: 41.9%;
+  top: 40%;
+  height: 18.1%;
+}
+.apache {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 15.47%;
+  left: 81.72%;
+  width: 2.81%;
+  bottom: 41.9%;
+  top: 40%;
+  height: 18.1%;
+}
+.group-5751 {
+  height: auto;
+  position: absolute;
+  right: 92.71%;
+  left: 3.12%;
+  width: 4.17%;
+  bottom: 31.85%;
+  top: 31.43%;
+  height: 36.72%;
+  overflow: visible;
+}

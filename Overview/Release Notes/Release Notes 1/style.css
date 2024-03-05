@@ -1,0 +1,550 @@
+.release-notes,
+.release-notes * {
+  box-sizing: border-box;
+}
+.release-notes {
+  background: #ffffff;
+  height: 1603px;
+  position: relative;
+  overflow: hidden;
+}
+.vector-2 {
+  width: 1922px;
+  height: 0px;
+  position: absolute;
+  left: -1px;
+  top: 473px;
+  overflow: visible;
+}
+.ellipse-190 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #d10d52;
+  border-width: 1px;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  left: 348px;
+  top: 461px;
+}
+.ellipse-191 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #d10d52;
+  border-width: 1px;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  left: 1548px;
+  top: 461px;
+}
+.introduction-of-age {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  right: 33.02%;
+  left: 33.44%;
+  width: 33.54%;
+  bottom: 81.91%;
+  top: 15.6%;
+  height: 2.5%;
+}
+.age-was-under-development-since-2019-by-a-team-of-engineers-at-bitnine-global-inc-the-project-originally-born-out-of-agens-graph-a-multi-model-graph-database-fork-of-postgre-sql-was-donated-to-the-apache-software-foundation-and-entered-incubation-in-apri {
+  position: absolute;
+  inset: 0;
+}
+.these-release-notes-describe-the-key-features-software-enhancements-and-improvements-known-issues-and-how-to-run-this-apache-age-check-these-release-notes-regularly-for-product-updates {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  width: 62.5%;
+  bottom: 75.48%;
+  top: 21.33%;
+  height: 3.18%;
+}
+.group-2697 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-478 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 85.03%;
+  height: 14.97%;
+  overflow: visible;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 355px;
+  top: 1455px;
+  width: 1210px;
+  height: 57px;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span {
+  color: #ffffff;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span2 {
+  color: #ffffff;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span3 {
+  color: #ffffff;
+  font-family: "Roboto-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  text-decoration: underline;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span4 {
+  color: #ffffff;
+  font-family: "Roboto-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+.apache-age-v-1-4-0 {
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 360px;
+  top: 665px;
+  width: 180px;
+  height: 28px;
+}
+.apache-age-v-1-4-0-span {
+  color: #000000;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.apache-age-v-1-4-0-span2 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.apache-age-v-1-0-0 {
+  color: #d4d4d4;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 360px;
+  top: 865px;
+  width: 180px;
+  height: 28px;
+}
+.apache-age-v-1-3-0 {
+  color: #d4d4d4;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 360px;
+  top: 715px;
+  width: 180px;
+  height: 28px;
+}
+.apache-age-v-1-2-0 {
+  color: #d4d4d4;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 360px;
+  top: 765px;
+  width: 180px;
+  height: 28px;
+}
+.apache-age-v-1-1-0 {
+  color: #d4d4d4;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 360px;
+  top: 815px;
+  width: 180px;
+  height: 28px;
+}
+.rectangle-9906 {
+  background: #f4f3f3;
+  width: 208px;
+  height: 488px;
+  position: absolute;
+  left: 686px;
+  top: 665px;
+}
+.apache-age-v-1-4-02 {
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 718px;
+  top: 582px;
+  width: 285px;
+  height: 40px;
+}
+.apache-age-v-1-4-02-span {
+  color: #000000;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.apache-age-v-1-4-02-span2 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.pre-release-date {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 708px;
+  top: 708px;
+  width: 124px;
+  height: 24px;
+}
+._25-aug-2023 {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 969px;
+  top: 708px;
+  width: 112px;
+  height: 20px;
+}
+.release-notes2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 708px;
+  top: 775px;
+  width: 104px;
+  height: 16px;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 969px;
+  top: 775px;
+  width: 591px;
+  height: 200px;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span {
+  color: #000000;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 700;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span2 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span3 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span4 {
+  color: #000000;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 700;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span5 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span6 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span7 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span8 {
+  color: #000000;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 700;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span9 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span10 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span11 {
+  color: #000000;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 700;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span12 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span13 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span14 {
+  color: #000000;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 700;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span15 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span16 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+}
+.pg-15-https-github-com-apache-age-releases-tag-pg-15-2-fv-1-4-0-rc-0-pg-14-https-github-com-apache-age-releases-tag-pg-14-2-fv-1-4-0-rc-0-pg-13-https-github-com-apache-age-releases-tag-pg-13-2-fv-1-4-0-rc-0-pg-12-https-github-com-apache-age-releases-tag-pg-12-2-fv-1-4-0-rc-0-pg-11-https-github-com-apache-age-releases-tag-pg-11-2-fv-1-4-0-rc-0-span17 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.key-improvement-s {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 708px;
+  top: 1031px;
+  width: 148px;
+  height: 17px;
+}
+.first-release-for-postgre-sql-14-and-15-several-issues-with-the-clauses-resolved-added-multiple-open-cypher-functions {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 969px;
+  top: 1020px;
+  width: 566px;
+  height: 90px;
+}
+.vector-3 {
+  width: 874px;
+  height: 0px;
+  position: absolute;
+  left: 686px;
+  top: 665px;
+  transform: translate(0px, -1px);
+  overflow: visible;
+}
+.vector-4 {
+  width: 874px;
+  height: 0px;
+  position: absolute;
+  left: 686px;
+  top: 1153px;
+  transform: translate(0px, -1px);
+  overflow: visible;
+}
+.layer-1 {
+  width: 19.4px;
+  height: 36px;
+  position: absolute;
+  left: 686px;
+  top: 584px;
+  overflow: visible;
+}
+.div {
+  position: sticky;
+  left: 0px;
+  top: 0px;
+}
+.group {
+  width: 1920px;
+  height: 105px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-2670 {
+  width: 153px;
+  height: 48px;
+  position: static;
+}
+.union-5 {
+  width: 153px;
+  height: 48px;
+  position: absolute;
+  left: 1707px;
+  top: 28px;
+  overflow: visible;
+}
+.download-age {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 1730px;
+  top: 42px;
+}
+.group-2681 {
+  width: 663px;
+  height: 19px;
+  position: static;
+}
+.apache-age {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 960px;
+  top: 42px;
+}
+.documentation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1109px;
+  top: 42px;
+}
+.contribution {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1279px;
+  top: 42px;
+}
+.community {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1427px;
+  top: 42px;
+}
+.apache {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1569px;
+  top: 42px;
+}
+.group-5751 {
+  width: 80px;
+  height: 38.56px;
+  position: absolute;
+  left: 60px;
+  top: 33px;
+  overflow: visible;
+}

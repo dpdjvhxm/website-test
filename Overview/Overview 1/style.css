@@ -1,0 +1,406 @@
+.overview-1,
+.overview-1 * {
+  box-sizing: border-box;
+}
+.overview-1 {
+  background: #ffffff;
+  height: 2198px;
+  position: relative;
+  overflow: hidden;
+}
+.group-2697 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-478 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 89.08%;
+  height: 10.92%;
+  overflow: visible;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 355px;
+  top: 2050px;
+  width: 1210px;
+  height: 57px;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span {
+  color: #ffffff;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span2 {
+  color: #ffffff;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span3 {
+  color: #ffffff;
+  font-family: "Roboto-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  text-decoration: underline;
+}
+.copyright-2024-the-apache-software-foundation-the-apache-software-foundation-apache-age-age-apache-the-apache-feather-and-the-apache-age-project-logo-are-either-registered-trademarks-or-trademarks-of-the-apache-software-foundation-span4 {
+  color: #ffffff;
+  font-family: "Roboto-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+.a-graph-extension {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  right: 43.59%;
+  left: 43.49%;
+  width: 12.92%;
+  bottom: 86.81%;
+  top: 11.69%;
+  height: 1.5%;
+}
+.introduction-of-age {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  right: 41.77%;
+  left: 41.67%;
+  width: 16.56%;
+  bottom: 88.54%;
+  top: 9.55%;
+  height: 1.91%;
+}
+.apache-age {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 710px;
+  top: 582px;
+  width: 219px;
+  height: 40px;
+}
+.apache-age-span {
+  color: #000000;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-span2 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-span3 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-span4 {
+  color: #d10d52;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+.apache-age-viewer {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 974px;
+  top: 582px;
+  width: 344px;
+  height: 40px;
+}
+.apache-age-viewer-span {
+  color: #d4d4d4;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-viewer-span2 {
+  color: #d4d4d4;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-viewer-span3 {
+  color: #d4d4d4;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 360px;
+  top: 725px;
+  width: 617px;
+  height: 245px;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span2 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span3 {
+  color: #000000;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span4 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span5 {
+  color: #000000;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span6 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span7 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span8 {
+  color: #000000;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span9 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span10 {
+  color: #000000;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span11 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span12 {
+  color: #000000;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span13 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span14 {
+  color: #d10d52;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span15 {
+  color: #000000;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.apache-age-is-a-postgre-sql-extension-that-provides-graph-database-functionality-the-goal-of-apache-age-is-to-enable-postgres-users-to-gain-access-to-graph-query-modeling-in-postgres-existing-relational-model-apache-age-is-a-top-level-project-of-the-apache-software-foundation-since-may-2022-it-is-licensed-under-the-apache-license-2-0-below-is-a-brief-overview-of-the-age-architecture-similar-to-the-postgre-sql-architecture-and-backend-every-component-runs-on-the-postgre-sql-transaction-cache-layer-and-storage-layer-apache-age-will-be-compatible-with-all-relational-databases-in-the-future-development-starting-with-maria-db-and-my-sql-span16 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.group-2698 {
+  position: absolute;
+  inset: 0;
+}
+.image-2 {
+  width: 502px;
+  height: 156px;
+  position: absolute;
+  left: 1058px;
+  top: 770px;
+  object-fit: cover;
+}
+.image-3 {
+  width: 1268px;
+  height: 682px;
+  position: absolute;
+  left: 335px;
+  top: 1105px;
+  object-fit: cover;
+}
+.group-2705 {
+  height: auto;
+  position: absolute;
+  left: -1px;
+  top: 461px;
+  overflow: visible;
+}
+.age-was-under-development-since-2019-by-a-team-of-engineers-at-bitnine-global-inc-the-project-originally-born-out-of-agens-graph-a-multi-model-graph-database-fork-of-postgre-sql-was-donated-to-the-apache-software-foundation-and-entered-incubation-in-apri {
+  position: absolute;
+  inset: 0;
+}
+.age-was-under-development-since-2019-by-a-team-of-engineers-at-bitnine-global-inc-the-project-originally-born-out-of-agens-graph-a-multi-model-graph-database-fork-of-postgre-sql-was-donated-to-the-apache-software-foundation-and-entered-incubation-in-april-2020 {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  width: 62.5%;
+  bottom: 82.12%;
+  top: 15.56%;
+  height: 2.32%;
+}
+.div {
+  position: sticky;
+  left: 0px;
+  top: 0px;
+}
+.group {
+  width: 1920px;
+  height: 105px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-2670 {
+  width: 153px;
+  height: 48px;
+  position: static;
+}
+.union-5 {
+  width: 153px;
+  height: 48px;
+  position: absolute;
+  left: 1707px;
+  top: 28px;
+  overflow: visible;
+}
+.download-age {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 1730px;
+  top: 42px;
+}
+.group-2681 {
+  width: 663px;
+  height: 19px;
+  position: static;
+}
+.apache-age2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 960px;
+  top: 42px;
+}
+.documentation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1109px;
+  top: 42px;
+}
+.contribution {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1279px;
+  top: 42px;
+}
+.community {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1427px;
+  top: 42px;
+}
+.apache {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1569px;
+  top: 42px;
+}
+.group-5751 {
+  width: 80px;
+  height: 38.56px;
+  position: absolute;
+  left: 60px;
+  top: 33px;
+  overflow: visible;
+}
